@@ -36,12 +36,9 @@ When you give a input of $1.2, it will return { "1": "dollars"}, { "2": "dimes"}
 - Todo: Use laC(Infrastructure as Code)
 - 4 Steps
 <img width="1199" alt="截屏2023-02-01 13 34 31" src="https://user-images.githubusercontent.com/84234596/216132654-0e126340-8fc6-4a44-a68b-4df954701cbc.png">
-<img width="1212" alt="截屏2023-02-01 13 32 05" src="https://user-images.githubusercontent.com/84234596/216132700-0d71a149-6aaf-4d6a-8f5d-db6f3b2e817a.png">
 <img width="1171" alt="截屏2023-02-01 13 28 35" src="https://user-images.githubusercontent.com/84234596/217628581-8416eab0-3ba2-4601-bf1c-772fe9343d1b.png">
 <img width="1191" alt="截屏2023-02-08 14 08 38" src="https://user-images.githubusercontent.com/84234596/217628715-dbf3a375-c832-4a21-9e6d-6debf415cbe3.png">
-
-<img width="1202" alt="截屏2023-02-01 13 32 53" src="https://user-images.githubusercontent.com/84234596/216132721-04eaeb57-05f4-416e-a864-e081fa09939c.png">
 After clicking "Review and Create", it will turn to this page, and we can wait for running deployment.
 <img width="631" alt="截屏2023-02-01 13 42 28" src="https://user-images.githubusercontent.com/84234596/216133874-eb287599-abb3-4afe-87a5-98b6dc5ec9f5.png">
-Note: the deployment is failed here, need to check.
+
 After the deployment, we can use the link to check app.py again.
